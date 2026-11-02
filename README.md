@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,18,10,4,0&height=220&section=header&text=Paperclip%20Agents&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A4%96%20Open-Source%20Autonomous%20AI%20Agent%20Management%20%26%20Orchestration&descAlignY=62&descAlign=50" width="100%" alt="Paperclip Agents 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/paperclip">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="95" height="95" alt="Paperclip Agents 3D Icon" />
+  </a>
+
+  <h1>Paperclip Agents</h1>
+  <p><b>🤖 Open-Source Autonomous AI Agent Management & Orchestration</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,typescript,docker,postgres&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <p align="center">
   <img src="doc/assets/banner.jpg" alt="Paperclip is the app people use to manage AI agents for work." width="720" />
 </p>
@@ -598,3 +622,9 @@ MIT &copy; 2026 [Paperclip Labs, Inc](https://paperclip.ing)
 <p align="center">
   <sub>Open source under MIT. Built for people who want to get work done, not babysit agents.</sub>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,18,10,4,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
